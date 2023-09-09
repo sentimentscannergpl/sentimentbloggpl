@@ -60,7 +60,7 @@
 				<button type="button" class="menu-toggle">
 	                <i class="fa fa-list-ul fa-2x"></i>
 	            </button>
-
+<script src="https://cdn.popupsmart.com/bundle.js" data-id="145386" async defer></script>
 				<?php
 				wp_nav_menu(
 					array(
